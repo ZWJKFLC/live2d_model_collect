@@ -37,41 +37,6 @@
 			"Name": "姿势2"
 		},
 		{
-			"Id": "Param54",
-			"GroupId": "",
-			"Name": "姿势3"
-		},
-		{
-			"Id": "Param55",
-			"GroupId": "",
-			"Name": "姿势4"
-		},
-		{
-			"Id": "Param56",
-			"GroupId": "",
-			"Name": "姿势5"
-		},
-		{
-			"Id": "Param57",
-			"GroupId": "",
-			"Name": "姿势6"
-		},
-		{
-			"Id": "Param58",
-			"GroupId": "",
-			"Name": "表情1"
-		},
-		{
-			"Id": "Param59",
-			"GroupId": "",
-			"Name": "表情2"
-		},
-		{
-			"Id": "Param39",
-			"GroupId": "",
-			"Name": "表情3"
-		},
-		{
 			"Id": "ParamAngleX",
 			"GroupId": "ParamGroup2",
 			"Name": "角度 X"
@@ -372,22 +337,17 @@
 			"Name": "左耳1"
 		},
 		{
-			"Id": "Param3989678978",
+			"Id": "Param39",
 			"GroupId": "ParamGroup13",
 			"Name": "左耳2"
 		},
 		{
-			"Id": "Param40780780",
+			"Id": "Param40",
 			"GroupId": "ParamGroup13",
 			"Name": "右耳1"
 		},
 		{
-			"Id": "Param6068568",
-			"GroupId": "ParamGroup13",
-			"Name": "参数138"
-		},
-		{
-			"Id": "Param41475345",
+			"Id": "Param41",
 			"GroupId": "ParamGroup13",
 			"Name": "右耳2"
 		},
@@ -805,14 +765,6 @@
 		}
 	],
 	"Parts": [
-		{
-			"Id": "Part35",
-			"Name": "ﾆﾕﾍｨｱﾈﾐ�"
-		},
-		{
-			"Id": "Part36",
-			"Name": "ﾐ�"
-		},
 		{
 			"Id": "Part31",
 			"Name": "[]B)[SH}CCK$P(UG)J_@YRN.jpg"

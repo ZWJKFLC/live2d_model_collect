@@ -36,43 +36,12 @@
 			{
 				"Name": "st.exp3.json",
 				"File": "st.exp3.json"
-			},
-			{
-				"Name": "zs3.exp3.json",
-				"File": "zs3.exp3.json"
-			},
-			{
-				"Name": "zs4.exp3.json",
-				"File": "zs4.exp3.json"
-			},
-			{
-				"Name": "zs5.exp3.json",
-				"File": "zs5.exp3.json"
-			},
-			{
-				"Name": "zs6.exp3.json",
-				"File": "zs6.exp3.json"
-			},
-			{
-				"Name": "bq1.exp3.json",
-				"File": "bq1.exp3.json"
-			},
-			{
-				"Name": "bq2.exp3.json",
-				"File": "bq2.exp3.json"
-			},
-			{
-				"Name": "bq3.exp3.json",
-				"File": "bq3.exp3.json"
 			}
 		],
 		"Motions": {
 			"": [
 				{
 					"File": "donghua.motion3.json"
-				},
-				{
-					"File": "he.motion3.json"
 				}
 			]
 		}
